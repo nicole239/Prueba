@@ -2,3 +2,6 @@ Este proyecto incluye:
  - Mesas
  - Meseros
  - Inventario
+
+Ahora también incluye:
+ - Menú
