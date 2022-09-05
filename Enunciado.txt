@@ -1,0 +1,4 @@
+Este proyecto incluye:
+ - Mesas
+ - Meseros
+ - Inventario
